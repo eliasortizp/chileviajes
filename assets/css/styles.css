@@ -1,0 +1,85 @@
+<!--Estilo del Navbar-->
+.navbar{
+    background-color: black;
+    z-index: 1;
+
+
+}
+
+#carrusel {
+	padding-right: 0px;
+    padding-left: 0px;
+}
+
+.navbar-brand{
+    font-family: "time";
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+#Parrafos{
+    background-color: black;
+    font-size: revert;
+    text-align: center;
+    color: white;
+}
+
+.image{
+    height:30px;
+    width: 30px;
+    
+}
+
+#quienes{
+    background-color: black;
+    color: white;
+    
+    
+
+
+}
+#destacado{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+.container DESTACADO{
+    color: white;
+}
+
+#contacto{
+    background-color: black;
+    color: white;
+
+}
+
+.card{
+    background-color: rgb(143, 193, 255);
+}
+
+.col{
+
+color: white;
+}
+
+.contacto{
+    color: white;
+}
+
+.container footer{
+    background-color: rgb(143, 193, 255);
+    color: white;
+}
+
+.container{
+    background-color: black;
+}
+
+.linea{
+    padding: 0;
+    border: 0;
+    margin: 0;
+    background-color: black;
+
+}
