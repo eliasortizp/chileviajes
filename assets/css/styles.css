@@ -1,9 +1,10 @@
+*{
+    color:white;
+}
+
 <!--Estilo del Navbar-->
 .navbar{
-    background-color: black;
     z-index: 1;
-
-
 }
 
 #carrusel {
@@ -22,7 +23,6 @@
     background-color: black;
     font-size: revert;
     text-align: center;
-    color: white;
 }
 
 .image{
@@ -33,47 +33,23 @@
 
 #quienes{
     background-color: black;
-    color: white;
-    
-    
-
-
 }
+
 #destacado{
     background-color: black;
-    color: white;
     text-align: justify;
-}
-.container DESTACADO{
-    color: white;
 }
 
 #contacto{
     background-color: black;
-    color: white;
-
 }
 
 .card{
-    background-color: rgb(143, 193, 255);
+    background-color: var(--bs-info);
 }
 
-.col{
-
-color: white;
-}
-
-.contacto{
-    color: white;
-}
-
-.container footer{
-    background-color: rgb(143, 193, 255);
-    color: white;
-}
-
-.container{
-    background-color: black;
+footer{
+    background-color: var(--bs-info);
 }
 
 .linea{
@@ -83,3 +59,4 @@ color: white;
     background-color: black;
 
 }
+
